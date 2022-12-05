@@ -90,7 +90,7 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
-                <DockPanel Background="#777777" SnapsToDevicePixels="True" Grid.Row="0" Width="1200">
+                <DockPanel Background="#777777" SnapsToDevicePixels="True" Grid.Row="0" Width="1130">
                     <Image Height="46" Width="190" Name="Icon" SnapsToDevicePixels="True" Source="https://i.imgur.com/bLcyhug.png" Margin="8,10,0,10"/>
                     <Button Content="Install" HorizontalAlignment="Left" Height="40" Width="100" Background="#222222" BorderThickness="0,0,0,0" FontWeight="Bold" Foreground="#ffffff" Name="Tab1BT"/>
                     <Button Content="Tweaks" HorizontalAlignment="Left" Height="40" Width="100" Background="#333333" BorderThickness="0,0,0,0" FontWeight="Bold" Foreground="#ffffff" Name="Tab2BT"/>
